@@ -22,3 +22,6 @@ function FormInput({ name, label, required }) {
 }
 
 export default FormInput;
+
+
+
