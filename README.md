@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# e-commerce-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the project [Here](https://e-commerce-example-1.netlify.app/).
 
-## Available Scripts
-
-In the project directory, you can run:
+The e-commerce app is built with commerce.js, react.js, stripe. It allows a user to
+look at a list of products to buy, select them, whcih then puts the product in a cart. Then the user can select the cart
+and be taken to a cart view that allows users to be sure what exactly they are purchasing. After that users can be taken to a checkout screen 
+where they enter their information and confirm their purchase.
 
 ### `npm start`
 
@@ -39,19 +40,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
